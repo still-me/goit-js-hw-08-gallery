@@ -1,0 +1,53 @@
+{
+    "liveSassCompile.settings.formats": [
+        {
+            "format": "expanded",
+            "extensionName": ".css",
+            "savePath": "/css"
+        },
+        {
+            "format": "compressed",
+            "extensionName": ".min.css",
+            "savePath": "/css"
+        }
+    ],
+    "liveSassCompile.settings.excludeList": [
+        "**/node_modules/**",
+        ".vscode/**"
+    ],
+    "liveSassCompile.settings.generateMap": true,
+    "liveServer.settings.port": 1235,
+    "liveSassCompile.settings.autoprefix": null,
+    "cSpell.words": [
+        "Curabitur",
+        "Descenting",
+        "Mcintosh",
+        "adipisicing",
+        "amet",
+        "commodo",
+        "elit",
+        "irure",
+        "jqueryismyjam",
+        "laborum",
+        "mollit",
+        "nostrud",
+        "nulla",
+        "proident",
+        "sapien",
+        "tempor",
+        "velit",
+        "veniam",
+        "Аякс",
+        "Корнуэлл",
+        "Танит",
+        "Шекли",
+        "коллбек"
+    ],
+    "cSpell.ignoreWords": [
+        "java",
+        "script",
+        "scriptэтоинтересно",
+        "дроидов",
+        "чейнинг"
+    ]
+}
